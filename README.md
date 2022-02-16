@@ -1,5 +1,6 @@
-ASP.NET Core MVC [Archived]
+ASP.NET Core MVC [Archived] 
 ===========================
+[![CodeScene Code Health](https://codescene.io/projects/20556/status-badges/code-health)](https://codescene.io/projects/20556)
 
 **This GitHub project has been archived.** Ongoing development on this project can be found in <https://github.com/aspnet/AspNetCore>.
 
